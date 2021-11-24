@@ -8,7 +8,7 @@ exports.create = (req, res) => {
 
 // Retrieve users all Timers from the database.
 exports.findAll = (req, res) => {
-  
+  console.log('jeah');
 };
 
 // Find a users single Timer with an id.
